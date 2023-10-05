@@ -1,0 +1,45 @@
+body{
+    font-family: Arial, sans-serif;
+    background-color: #1d8b0f;
+    color: aliceblue;
+}
+
+a{
+    text-decoration: none;
+    color:aliceblue ;
+    padding: 10px 20px;
+    display: inline-block;
+}
+
+h1, h2, h3, p{
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+h1{
+   font-size: 35px; 
+}
+
+
+.produtos {
+    display: inline-block;
+    margin: 30px;
+    padding: 20px 30px;
+    border-radius: 15px;
+    box-shadow:  5px 5px 5px rgba(0, 0, 0, 0.3);
+    background-color: rgb(92, 226, 114);
+}
+
+img{
+    border-radius: 15px;
+    box-shadow:  5px 5px 5px rgba(0, 0, 0, 0.3);
+}
+
+p{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 0, 0);
+    margin: 10%;
+    padding: 10px 10px;
+    border-radius: 15px;
+    box-shadow:  5px 5px 5px rgba(0, 0, 0, 0.3);
+}
